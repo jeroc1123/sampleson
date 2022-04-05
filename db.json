@@ -1,4 +1,7 @@
-  {
+{
+  "users" :
+[
+    {
     "_id": "624c558cad5a59e413b649d3",
     "index": 0,
     "guid": "034e0b9b-3307-471e-bbc0-5d396a582cf2",
@@ -223,3 +226,5 @@
     "greeting": "Hello, Hollie Park! You have 9 unread messages.",
     "favoriteFruit": "strawberry"
   }
+  ]
+}
